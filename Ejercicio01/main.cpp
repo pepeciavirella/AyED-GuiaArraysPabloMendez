@@ -1,5 +1,9 @@
 #include <iostream>
 
+///---------Ej.1---------
+/// Leer una lista de 10 valores enteros listarlos por pantalla en sentido inverso al que ingresaron
+/// Autor: Giuseppe Ciavirella
+
 using namespace std;
 
 int main()
