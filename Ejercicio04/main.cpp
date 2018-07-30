@@ -2,7 +2,7 @@
 #include <conio.h>                   //Para poder usar el getch()
 #define TAMVECTOR 6                  //Debe estar definido, puedo cambiarlo desde aca a mi gusto
 
-///---------Ej.MI-1---------
+///---------Ej.4---------
 /// Diseñar un algoritmo recursivo, que permita invertir el contenido de un vector. Como indica el ejemplo:
 /// Vector original: 28 35 12 43 56 77
 /// Vector invertido: 77 56 43 12 35 28
